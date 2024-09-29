@@ -1,0 +1,4 @@
+when working with a repo that you do not own
+fiest fork the repo
+make the change 
+then submit a pull request for the maintainer to revie
